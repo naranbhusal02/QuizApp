@@ -2,7 +2,7 @@ import Quiz from "@/components/quiz";
 
 export default function Home() {
   return (
-    <main className="min-h-screen flx flex-col">
+    <main className="min-h-screen flex flex-col">
       <div className="flex flex-1 container mx-auto px-4 py-8">
         <Quiz />
       </div>
