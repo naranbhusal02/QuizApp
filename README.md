@@ -1,1 +1,13 @@
 ## Just a web application for quiz question related to OS
+------
+This project uses following techs to showcase questions and let user choose one answer
+-React.js
+-Tailwind css
+
+
+Some of it good features are:
+- Gives multiple choices
+- Easier UI and single page
+- Gives final score
+- Free to use
+- Helps to check our knowledge and ability
